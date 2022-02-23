@@ -6,3 +6,5 @@ welcome
 to the new learning 
 thankyou
 forgot somthing
+
+hi mike how are you man
